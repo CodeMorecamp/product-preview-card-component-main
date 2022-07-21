@@ -1,0 +1,39 @@
+body{
+    background-color: palegoldenrod;
+    border-radius: 20px solid black ;  
+}
+
+table tr th{
+    color:  hsl(212, 21%, 14%);
+    background-color:hsl(30, 38%, 92%) ;
+    
+}
+table tr{
+    border-radius: 20px solid black ;  
+    text-align: left;
+}
+p{
+    font-size: 14px;
+    font-style: normal;
+}
+
+img{
+    width: 305px;
+    height: 425px;
+}
+span{
+    font-size: x-small;
+    text-decoration: line-through;
+}
+.main{
+  margin: 10%;
+  border: .5px solid white;
+  margin-left: 30%;
+  width: 600px;
+  border-radius: 10px;
+  background-color: white;
+}
+h1{
+font-family: "Montserrat";
+font-weight: 900;
+}
